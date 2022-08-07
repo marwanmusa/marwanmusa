@@ -1,6 +1,5 @@
 <h1 align="center">Hello World 🗺️, I'm Marwan Musa</h1>
-<h3 align="center">Currently I'm enrolling Data Science Bootcamp in Hacktiv8 Indonesia</h3>
-<h4 align="center"><i>Welcome to my github</i></h4>
+<h3 align="center"><i>Welcome to my github</i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwanmusa&label=Profile%20views&color=0e75b6&style=flat" alt="marwanmusa" /> </p>
 
