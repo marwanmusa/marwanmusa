@@ -54,8 +54,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.selenium.dev/" target="_blank"><img src="https://img.icons8.com/office/160/000000/selenium-test-automation.png" alt="Selenium" width="50" height="50"/> </a> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats-marwanmusa.vercel.app/api/top-langs?username=marwanmusa&show_icons=true&locale=en&layout=compact" alt="marwanmusa" /></p>
+<p align="center"><img align="center" src="github-readme-stats-htpi.vercel.app/api/top-langs?username=marwanmusa&show_icons=true&locale=en&layout=compact" alt="marwanmusa" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://https://github-readme-stats-marwanmusa.vercel.app/api?username=marwanmusa&show_icons=true&locale=en" alt="marwanmusa" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-htpi.vercel.app/api?username=marwanmusa&show_icons=true&locale=en" alt="marwanmusa" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwanmusa&" alt="marwanmusa" /></p>
