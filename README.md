@@ -57,6 +57,11 @@
 
 ### Coding Stats:
 <!--START_SECTION:waka-->
+
+```text
+Markdown   1 min           █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Github Stats:
