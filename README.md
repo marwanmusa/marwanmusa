@@ -9,13 +9,10 @@
 
 
 - 🌱 I’m currently learning **Django rest framework and Julia Language**
-
 - 💬 Ask me about **Python and Julia**
-
 - 📫 How to reach me **marwanlmusa@gmail.com**
-
+- 👨‍💻 All of my projects are available at **[https://github.com/PragatiVerma18](https://github.com/marwanmusa)**
 - 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1ui277WLDtCVmpOrMsX3_OPdaK1vD373A/view?usp=sharing)**
-
 - ⚡ Fun fact **I love music🎼 and chess♟️**
 <br>
 
