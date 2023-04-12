@@ -19,8 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marwanmusa" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="marwanmusa" height="40" width="40" /></a>
-<a href="https://instagram.com/awanium" target="blank"><img src="https://img.icons8.com/fluency/144/000000/instagram-new.png" alt="marwanmusa" height="40" width="40" /></a>
-<!-- <a href="https://kaggle.com/marwanmusa" target="blank"><img src="https://img.icons8.com/windows/128/000000/kaggle.png" alt="marwanmusa" height="40" width="40" /></a> -->
+<a href="https://instagram.com/marwannmusa" target="blank"><img src="https://img.icons8.com/fluency/144/000000/instagram-new.png" alt="marwanmusa" height="40" width="40" /></a>
+<a href="https://kaggle.com/marwanmusa" target="blank"><img src="https://img.icons8.com/windows/128/000000/kaggle.png" alt="marwanmusa" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/MarwanMusa" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="marwanmusa" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/marwanmusa" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="marwanmusa" height="40" width="40" /></a>
 </p>
