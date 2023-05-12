@@ -8,7 +8,7 @@
 <a href="https://github.com/usa"><img src="https://img.shields.io/github/followers/marwanmusa?label=follow&style=social"></a>
 
 
-- 🌱 I’m currently learning **Django rest framework and Julia Language**
+- 🌱 I’m currently learning **Generative AI and DS with Julia Language**
 - 💬 Ask me about **Python and Julia**
 - 📫 How to reach me **marwanlmusa@gmail.com**
 - 👨‍💻 All of my projects are available at **[https://github.com/marwanmusa](https://github.com/marwanmusa)**
