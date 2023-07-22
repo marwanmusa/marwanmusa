@@ -12,7 +12,7 @@
 - 💬 Ask me about **Python and Julia**
 - 📫 How to reach me **marwanlmusa@gmail.com**
 - 👨‍💻 All of my projects are available at **[https://github.com/marwanmusa](https://github.com/marwanmusa)**
-- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1FT1aiMC6AzRd1razkYyH3kf1UnYOGTdW/view?usp=sharing)**
+- 📄 Know about me **[My Resume](https://drive.google.com/file/d/1FT1aiMC6AzRd1razkYyH3kf1UnYOGTdW/view?usp=sharing)**
 - ⚡ Fun fact **I love music🎼 and chess♟️**
 <br>
 
