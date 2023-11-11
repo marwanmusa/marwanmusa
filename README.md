@@ -8,7 +8,7 @@
 <a href="https://github.com/usa"><img src="https://img.shields.io/github/followers/marwanmusa?label=follow&style=social"></a>
 
 
-- 🌱 I’m currently learning **Generative AI and Software AI Development**
+- 🌱 I’m currently learning **Generative AI**
 - 💬 Ask me about **Data Science and AI Engineering**
 - 📫 Reach me at **marwanlmusa@gmail.com**
 - 👨‍💻 All of my projects are available at **[https://github.com/marwanmusa](https://github.com/marwanmusa)**
