@@ -1,7 +1,7 @@
 <h1 align="left">Hello World 🗺️</h1>
 
 ## I'm Marwan Musa
-### A Software engineer and AI Enthusiast</h3>
+### A Software AI engineer from Indonesia 🇮🇩 </h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/marwanmusa"><img src="https://img.shields.io/badge/-Marwan Musa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/marwanmusa/"></a>
