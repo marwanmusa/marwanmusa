@@ -1,4 +1,4 @@
-<h1 align="left">Hello World 🗺️</h1>
+<h1 align="left">Hello World 🌏</h1>
 
 ## I'm Marwan Musa
 ### A Software AI engineer from Indonesia 🇮🇩 </h3>
