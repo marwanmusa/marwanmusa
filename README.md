@@ -55,10 +55,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++          8 mins          █████████░░░░░░░░░░░░░░░░   36.05 %
-Python       7 mins          ████████░░░░░░░░░░░░░░░░░   31.40 %
-JavaScript   5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.74 %
-Markdown     2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
