@@ -55,11 +55,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       35 mins         ████████████████▒░░░░░░░░   65.07 %
-HTML         16 mins         ███████▓░░░░░░░░░░░░░░░░░   30.07 %
-JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-C++          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
