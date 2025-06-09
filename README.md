@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Generative AI**
 - 💬 Ask me about **Data Science and AI Engineering**
 - 📫 Reach me at **marwanlmusa@gmail.com**
-- 📄 Get to know me by **[My Resume](https://drive.google.com/file/d/1FT1aiMC6AzRd1razkYyH3kf1UnYOGTdW/view?usp=sharing)**
+- 📄 Get to know me by **[portfolio](https://marwanmusa.github.io)**
 - ⚡ Fun fact **I love music and play chess**
 <br>
 
