@@ -55,11 +55,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python     1 hr 28 mins    ████████████████████▒░░░░   81.04 %
-Bash       11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-Markdown   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-TOML       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
