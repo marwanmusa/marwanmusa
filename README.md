@@ -55,7 +55,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   12 mins               ████████████▓░░░░░░░░░░░░   50.48 %
+HTML         6 mins                ██████▓░░░░░░░░░░░░░░░░░░   26.51 %
+nvmrc        5 mins                █████▓░░░░░░░░░░░░░░░░░░░   23.01 %
 ```
 
 <!--END_SECTION:waka-->
