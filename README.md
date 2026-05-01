@@ -8,7 +8,6 @@
 <a href="https://github.com/usa"><img src="https://img.shields.io/github/followers/marwanmusa?label=follow&style=social"></a>
 
 
-- 🌱 I’m currently learning **Generative AI**
 - 💬 Ask me about **Data Science and AI Engineering**
 - 📫 Reach me at **marwanlmusa@gmail.com**
 - 📄 Get to know me by **[portfolio](https://marwanmusa.github.io)**
@@ -80,6 +79,28 @@
   </a>
   <a href="https://www.selenium.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">AI Tools:</h3>
+<p align="left">
+  <a href="https://cursor.sh/" target="_blank">
+    <img src="https://media.theirstack.com/technology/logo/cursor/logo2.png" height="40"/>
+  </a>
+  <a href="https://antigravity.ai/" target="_blank">
+    <img src="https://static.wikia.nocookie.net/logopedia/images/4/4a/Google_Antigravity_icon.svg/revision/latest/scale-to-width-down/1200?cb=20251119202403" height="40"/>
+  </a>
+  <a href="https://github.com/features/copilot" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-copilot.png" height="40"/>
+  </a>
+  <a href="https://claude.ai/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/claude-logo.svg" height="40"/>
+  </a>
+  <a href="https://chat.openai.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openai-light.png" height="40"/>
+  </a>
+  <a href="https://gemini.google.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Google_Gemini_icon_2025.svg/500px-Google_Gemini_icon_2025.svg.png" height="40"/>
   </a>
 </p>
 <br>
