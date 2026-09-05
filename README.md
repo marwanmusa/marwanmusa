@@ -9,8 +9,7 @@
 
 
 - 💬 Ask me about **Data Science and AI Engineering**
-- 📫 Reach me at **marwanlmusa@gmail.com**
-- 📄 Get to know me by **[portfolio](https://marwanmusa.github.io)**
+- 📫 Reach me at **marwanmusa@untide.io**
 - ⚡ Fun fact **I love music and play chess**
 <br>
 
